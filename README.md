@@ -2,6 +2,7 @@
 
 Official repository for Starstreet Forecast app releases for GNU/Linux, Windows and Mac.
 
+Source Code and Website at https://www.starstreet.space/app
 ---
 
 ## 📋 Requirements
